@@ -1,5 +1,6 @@
 package Exercicios_POO;
 
+
 public class Pessoa2ex {
 	//Atributos
 		private String nome;
